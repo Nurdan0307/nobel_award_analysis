@@ -38,11 +38,11 @@ The ages of Nobel Prize winners in physics, chemistry, peace, medicine, and lite
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-- 
+  
 ## 🔗 Contact
 If you have any questions or would like to discuss this project, feel free to contact me through the following channels:
-Email: nurdankurt96@gmail.com
-LinkedIn: nurdan-kurt
-GitHub: Nurdan0307 
+- Email: nurdankurt96@gmail.com
+- LinkedIn: linkedin.com/nurdan-kurt
+- GitHub: github.com/Nurdan0307
 
 🤝 Thank you for visiting this repository!
